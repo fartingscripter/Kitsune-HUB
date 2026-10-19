@@ -7,4 +7,4 @@ Files the hub downloads once and then loads from the executor's workspace (`kits
 - `windui/icons.lua` — icon loader from [Footagesus/Icons](https://github.com/Footagesus/Icons), MIT (`windui/LICENSE-Icons.txt`).
   One change: only the lucide pack is loaded (the hub uses no other).
 - `windui/lucide.lua` — lucide icon pack from Footagesus/Icons (MIT). Lucide icons: ISC, https://lucide.dev.
-- `assets/` — Kitsune Hub logos, wallpapers and interface sounds (sounds are CC0, by Kenney).
+- `assets/` — Kitsune Hub logos, wallpapers, tab icons and interface sounds (sounds are CC0, by Kenney).
